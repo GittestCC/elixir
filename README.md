@@ -1,6 +1,6 @@
 # ElixirExample
 
-Basic Elixir example app with Cowboy 2 HTTP Server & Plug.
+Basic Elixir example app with Codwboy 2 HTTP Server & Plug.
 
 ## Installation
 
